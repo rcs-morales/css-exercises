@@ -1,0 +1,18 @@
+.odd {
+    background-color:rgb(253, 161, 175);
+    font-family: Verdana, dejavu-sans, sans-serif;
+}
+
+.apply-font-size {
+    font-size: 24px;
+}
+/* apply-font-size class is applied to 
+"Number 3" and "Number 4" element at index.html */
+#number2 {
+    color:#0000ff;
+    font-size:36px;
+}
+#number4 {
+    background-color:hsla(120, 100%, 75%, 0.815);
+    font-weight:bold;
+}
