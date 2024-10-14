@@ -1,1 +1,13 @@
 /* Add CSS Styling */
+ .avatar.proportioned {
+    height: auto; 
+    /* auto is used on height for the image 
+    to not lose its proportion */
+    width: 300px;
+}
+
+.avatar.distorted {
+    height: 400px;
+    width: 200px;
+}
+/* Chain Selectors */
